@@ -7,9 +7,10 @@
 
 package cuentas;
 
-import cuentas.CCuenta;
-
-
+/**
+ * 
+ * @author Álvaro
+ */
 public class Main {
 
     public static void main(String[] args) {
